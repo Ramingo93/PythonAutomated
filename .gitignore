@@ -1,6 +1,6 @@
 #___directory___
 **/.vEnv
-
+**/__pycache__
 
 #___file___
 ~$*

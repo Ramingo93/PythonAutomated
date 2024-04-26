@@ -15,7 +15,7 @@ if exist .vEnv\ (
 	call :colorEcho 0e "virtual environment deleted"
 	echo.
 )
-python -m virtualenv .vEnv 
+python -m venv .vEnv 
 ::pause
 ::attrib +h ".vEnv"
 call :colorEcho 0a "virtual environment generated"

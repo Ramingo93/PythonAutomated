@@ -1,6 +1,6 @@
 # Python Setup and package manager 
 
-Very simple Python batch files to automate the setup of virtual environment, extracting the requirements file, prepare a main temaplate code, ...
+Very simple batch file to automate the Python setup of virtual environment, extraction of the requirements file, prepare a main temaplate code, ...
 
 ## Managing files
 
